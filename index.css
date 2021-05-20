@@ -296,58 +296,6 @@ textarea.w-input {
   display: none !important
 }
 
-@media screen and (max-width:991px) {
-  .w-container {
-    max-width: 728px
-  }
-  .w-hidden-main {
-    display: inherit !important
-  }
-  .w-hidden-medium {
-    display: none !important
-  }
-  .w-col-medium-1 {
-    width: 8.33333333%
-  }
-  .w-col-medium-2 {
-    width: 16.66666667%
-  }
-  .w-col-medium-3 {
-    width: 25%
-  }
-  .w-col-medium-4 {
-    width: 33.33333333%
-  }
-  .w-col-medium-5 {
-    width: 41.66666667%
-  }
-  .w-col-medium-6 {
-    width: 50%
-  }
-  .w-col-medium-7 {
-    width: 58.33333333%
-  }
-  .w-col-medium-8 {
-    width: 66.66666667%
-  }
-  .w-col-medium-9 {
-    width: 75%
-  }
-  .w-col-medium-10 {
-    width: 83.33333333%
-  }
-  .w-col-medium-11 {
-    width: 91.66666667%
-  }
-  .w-col-medium-12 {
-    width: 100%
-  }
-  .w-col-stack {
-    width: 100%;
-    left: auto;
-    right: auto
-  }
-}
 
 @media screen and (max-width:767px) {
   .w-hidden-main {
